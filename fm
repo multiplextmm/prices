@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fm_catalog date="2017-02-05 17:22">
+<shop>
+<merchant-id>MerchantID</merchant-id>
+<offers>
+<offer sku="12341">
+<name>Мороженица Brand 3811</name>
+<vendor>Brand</vendor>
+<external_ids>
+          <kaspi>100447958</kaspi>
+</external_ids>
+<barcodes>
+<barcode>0123456789379</barcode>
+</barcodes>
+<pickup-options>
+<pickup-option id="PP-1" />
+<pickup-option id="PP-2" />
+<pickup-option id="PP-3" />
+</pickup-options>
+<delivery-options>
+<delivery-option city-id="000001" cost="1000" days="6" />
+</delivery-options>
+<price>8990</price>
+</offer>
+</offers>
+</shop>
+</fm_catalog>
